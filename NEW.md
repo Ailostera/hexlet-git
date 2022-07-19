@@ -1,1 +1,0 @@
-Renly is our king
