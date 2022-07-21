@@ -3,18 +3,19 @@ i
 n
 d
 m
+2
 e
 b
 i
 t
-c
+4
 h
 
 
 
 
 
-
+5
 
 
 
@@ -25,15 +26,14 @@ h
 i
 a
 m
-i
+1
 n
 v
-i
-s
 i
 b
 l
 e
+
 
 
 
